@@ -2,8 +2,9 @@ import cv2
 from ultralytics import YOLO
 
 **Need to dowload the following module**
-
+(error: ModuleNotFound)
 pip install ultralytics opencv-python
+(pip uninstall ultralytics)
 
 visual.py explanation:
 1. mport Libraries: Import cv2 for image manipulation and YOLO from the ultralytics library.
